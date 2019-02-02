@@ -2,3 +2,4 @@ target
 target/*
 .idea
 spring_mvc_api.iml
+.DS_Store

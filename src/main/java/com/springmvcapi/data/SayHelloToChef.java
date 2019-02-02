@@ -1,4 +1,4 @@
-package com.springmvcapi.model;
+package com.springmvcapi.data;
 
 public class SayHelloToChef {
 

@@ -1,6 +1,6 @@
 package com.springmvcapi.controller;
 
-import com.springmvcapi.model.SayHelloToChef;
+import com.springmvcapi.data.SayHelloToChef;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
