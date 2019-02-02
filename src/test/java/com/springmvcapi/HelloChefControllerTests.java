@@ -1,4 +1,4 @@
-package com.springmvcapi.config;
+package com.springmvcapi;
 
 
 import com.springmvcapi.controller.HelloChef;
